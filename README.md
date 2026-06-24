@@ -154,7 +154,7 @@ edutrack-portal/
 |-------|---------|
 | **Name** | *Zeeshan Haider* |
 | **Institution** | *Abasyn University Islamabad Campus*|
-| **Internship** | Web Development Internship — Week 1 |
+| **Internship** | Web Development Internship — Week 1 at @Codiora House (Private) Limited|
 | **Project** | EduTrack Student Performance Analytics Portal |
 | **Year** | 2026 |
 
