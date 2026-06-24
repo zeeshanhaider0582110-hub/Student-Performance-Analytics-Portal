@@ -8,7 +8,7 @@ A fully responsive front-end prototype for a Student Performance Analytics Porta
 
 EduTrack is a web-based portal designed to help educators and administrators monitor student academic performance, manage student records, and generate performance reports.
 
-This is a **front-end prototype** — all data is hardcoded for demonstration purposes. Dynamic functionality will be added in upcoming weeks.
+This is a **front-end prototype** — all data is hardcoded for demonstration purposes. 
 
 ---
 
